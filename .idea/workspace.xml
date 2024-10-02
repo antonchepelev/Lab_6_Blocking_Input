@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="709d6d34-c416-488a-aed0-d3c524ca0ac1" name="Changes" comment="completed task 1">
-      <change afterPath="$PROJECT_DIR$/src/FuelCosts.java" afterDir="false" />
+    <list default="true" id="709d6d34-c416-488a-aed0-d3c524ca0ac1" name="Changes" comment="completed task 2">
+      <change afterPath="$PROJECT_DIR$/src/RectangleInfo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +35,9 @@
     "accountId": "1e99d099-e7b3-4836-99ba-48317f9dd2b3"
   }
 }]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -48,6 +51,7 @@
   "keyToString": {
     "Application.CtoFConverter.executor": "Run",
     "Application.FuelCosts.executor": "Run",
+    "Application.RectangleInfo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -79,12 +83,21 @@
       <option name="project" value="LOCAL" />
       <updated>1727803531667</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="completed task 2">
+      <option name="closed" value="true" />
+      <created>1727890868732</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727890868732</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
     <MESSAGE value="completed task 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed task 1" />
+    <MESSAGE value="completed task 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed task 2" />
   </component>
 </project>
